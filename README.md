@@ -1,6 +1,6 @@
-# GEF5_-Tutorials
+# GEF5_Tutorials
 
-##Introduction
+## Introduction
 
 **Graphical Editing Framework**
 
