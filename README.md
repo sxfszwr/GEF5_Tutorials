@@ -17,7 +17,7 @@ The Eclipse Graphical Editing Framework (GEF) provides Eclipse-integrated end-us
 
 - Create a file and name it `gef-integration.target` , then paste the following content into it.
 
-	~~~
+~~~
 	<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <?pde version="3.8"?><target name="gef-integration" sequenceNumber="1">
 <locations>
@@ -44,7 +44,7 @@ The Eclipse Graphical Editing Framework (GEF) provides Eclipse-integrated end-us
   </location>
 </locations>
 </target>
-	~~~
+~~~
 	
 - Open gef-integration.target with target editor, make sure it loaded all unit.
 
